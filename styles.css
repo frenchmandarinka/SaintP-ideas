@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  src: url(ParamoreAlbum.ttf) format("truetype");
+  font-family: 'ParamoreAlbum';
+  font-weight: bold;
+}
+
+html {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  /* background-color: purple; */
+  background: linear-gradient(45deg, rgb(91, 5, 189), rgb(247, 48, 187));
+  color: gainsboro;
+  position: relative;
+  max-width: 790px;
+  min-height: 100%;
+  margin: 0 auto;
+  /* font-family: 'ParamoreAlbum'; */
+  font-size: 25px;
+  font-weight: 900;
+  box-sizing: border-box;
+  padding: 36px;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.logo {
+  font-family: 'ParamoreAlbum';
+  font-size: 50px;
+  color: yellow;
+  margin: 0;
+}
+
+.button {
+  width: 150px;
+  height: 45px;
+  padding-top: 7px;
+  box-sizing: border-box;
+  border: 2px solid gainsboro;
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.button:hover {
+  opacity: 0.5;
+}
+
+.image {
+  width: 500px;
+  display: block;
+  overflow: hidden;
+  margin: 10px auto 50px;
+}
+
+.advice {
+  font-family: 'Mukta', sans-serif;
+  font-size: 42px;
+  font-weight: bolder;
+  line-height: 1.5;
+  margin-bottom: 100px;
+  font-family: 'Mukta', sans-serif;
+}
+
+.footer {
+  font-family: 'ParamoreAlbum';
+  font-size: 15px;
+  margin: 0 auto;
+  /* position: relative; */
+  text-align: center;
+  bottom: 50px;
+}
