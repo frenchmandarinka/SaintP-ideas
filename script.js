@@ -31,7 +31,7 @@ let phrases = [{
     image: 'koworkin.jpg'
   },
   {
-    text: "собрать свою пасту в Pasta Fresca",
+    text: "собрать свою пасту с соусом и добавками в Pasta Fresca",
     image: 'fresca.jpg'
   },
   {
@@ -41,6 +41,22 @@ let phrases = [{
   {
     text: "сфоткать все неоновые вывески в Neon Coffee",
     image: 'neon.jpg'
+  },
+  {
+    text: 'взять по джелато с грибами и оливками во Вкусных Штучках',
+    image: 'gelato.jpg'
+  },
+  {
+    text: 'полюбоваться звездами в Планетарии',
+    image: 'planet.jpg'
+  },
+  {
+    text: 'увидеть скелет синего кита в Зоологичексом музее',
+    image: 'zoo.jpg'
+  },
+  {
+    text: 'посмотреть на бога Солнца в Египетском доме',
+    image: 'egypt.jpg'
   },
   {
     text: 'присоединиться к Обществу Чистых Тарелок',
