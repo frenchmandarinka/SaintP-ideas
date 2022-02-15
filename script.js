@@ -10,6 +10,9 @@ let phrases = [{
     text: "посидеть в кафе - джунглях Jungle",
     image: 'jungle.jpg'
   },
+  {text: 'сьесть лучший том ям в Chang',
+image: 'tomyam.jpg'
+  },
   {
     text: "заценить необычные десерты Анны Красовской",
     image: 'dessert.jpg'
