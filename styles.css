@@ -12,7 +12,7 @@ html {
 
 body {
   /* background-color: purple; */
-  background: linear-gradient(45deg, rgb(91, 5, 189), rgb(247, 48, 187));
+  background: linear-gradient(90deg, rgb(91, 5, 189), rgb(247, 48, 187));
   color: gainsboro;
   position: relative;
   max-width: 790px;
