@@ -40,7 +40,7 @@ body {
 
 .button {
   width: 150px;
-  height: 45px;
+/*   height: 45px; */
   padding-top: 7px;
   box-sizing: border-box;
   border: 2px solid gainsboro;
