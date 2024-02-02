@@ -54,7 +54,7 @@ image: 'tomyam.jpg'
     image: 'planet.jpg'
   },
   {
-    text: 'увидеть скелет синего кита в Зоологичексом музее',
+    text: 'увидеть скелет синего кита в Зоологическом музее',
     image: 'zoo.jpg'
   },
   {
@@ -97,7 +97,7 @@ button.addEventListener('click', getRandom);
 // let advice = document.querySelector('.advice');
 // let image = document.querySelector('.image');
 
-// // добавить квериселектор к логотипу и чтото там поменять чтобы разнгые логотипы вылезали например разных цветов /
+// // добавить квериселектор к логотипу и чтото там поменять чтобы разные логотипы вылезали например разных цветов /
 
 // function getRandom() {
 //   let randomElement = getRandomElement(phrases);
